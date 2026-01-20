@@ -65,3 +65,17 @@
  - Added disclaimer page
  - Included target users for the recommendation
  - Added TRL labels
+
+ --- 
+ 
+ ## [1.3.1] - 2026-01-06
+
+ ### Minor updates
+  - Revised collection: moved IP valuation to Market and Commercialization Status, remove other IP questions (transformed into dropdown)
+  - Added technology description layer (to give AI more context for more relevant recommendation)
+  - Added tooltips for questions (currently disabled)
+
+### Major updates
+  - Added IP branching in Intellectual Property Status
+  - Added download for trl result
+  - Added send result via email feature 
