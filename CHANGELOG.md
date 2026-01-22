@@ -68,14 +68,14 @@
 
  --- 
  
- ## [1.3.1] - 2026-01-06
+ ## [1.3.1] - 2026-01-15
 
  ### Minor updates
   - Revised collection: moved IP valuation to Market and Commercialization Status, remove other IP questions (transformed into dropdown)
   - Added technology description layer (to give AI more context for more relevant recommendation)
-  - Added tooltips for questions (currently disabled)
+  - Added tooltips for questions 
 
 ### Major updates
   - Added IP branching in Intellectual Property Status
-  - Added download for trl result
+  - Added download feature for trl result
   - Added send result via email feature 
