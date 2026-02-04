@@ -22,14 +22,14 @@ for row in data[1:]:
     trl_match = re.match(r"TRL\s*(\d+)", row[0].strip())
     if trl_match:
         current_trl = int(trl_match.group(1))
-        # **Process this row’s question texts too!**
+
         for i, cell in enumerate(row[1:]):
             if cell.strip():
                 rows_out.append({
                     "questionText": cell.strip(),
                     "trlLevel": current_trl,
                     "technologyType": technology_types[i].strip(),
-                    "category": ""  # no inference
+                    "category": ""  # no inference for now
                 })
         continue
 
