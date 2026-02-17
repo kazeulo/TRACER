@@ -85,17 +85,17 @@
  ## [1.3.2] - 2026-02-01
 
  ### Minor updates
-  - Revised Disclaimer [Done]
-  - Added 'back' button for technology details pages [Done]
-  - Added completed tasks in pdf document [Done]
-  - Changed PDF to preview instead of automatic download [Done]
+  - Revised Disclaimer
+  - Added 'back' button for technology details pages
+  - Added completed tasks in pdf document
+  - Changed PDF to preview instead of automatic download
   - Put selection IP type first before IP status 
-  - Revised questions dataset [Done]
-  - Added FAQs page [Done]
-  - Added Data Privacy Page after disclaimer [done]
+  - Revised questions dataset
+  - Added FAQs page
+  - Added Data Privacy Page after disclaimer
   - Added confirmation pop-up before user proceed to results 
 
 ### Major updates
-  - Added summary page (uneditable for now) [Done]
+  - Added summary page (uneditable for now)
   - Change calculation logic, include highest "achievable" trl and put gaps
 
